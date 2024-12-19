@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JCM6181513Brazil
-- 👀 I’m interested in martial arts, programming, classic drawing and brain-science
-- 🌱 I’m currently learning martial arts, programming, classic drawing and pedagogy
+- 👀 I’m interested in martial arts, programming and classical drawing
+- 🌱 I’m currently learning Karate, AI development and classical drawing
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me ...
 
